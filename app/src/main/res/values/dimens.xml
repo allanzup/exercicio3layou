@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimensao_250">250dp</dimen>
+    <dimen name="tamanho_fonte_16">16sp</dimen>
+    <dimen name="tamanho_fonte_12">12sp</dimen>
+    <dimen name="paddingtop_10">10dp</dimen>
+</resources>
